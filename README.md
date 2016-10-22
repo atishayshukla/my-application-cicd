@@ -1,2 +1,2 @@
-# hello-world-servlet
-HelloWorld Servlet example with corresponding Dockerfile
+# my-application-cicd
+My Repo for CI CD experimental
